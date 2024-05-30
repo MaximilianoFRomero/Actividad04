@@ -1,0 +1,14 @@
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\bin\Debug\net8.0\Actividad04.exe
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\bin\Debug\net8.0\Actividad04.deps.json
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\bin\Debug\net8.0\Actividad04.runtimeconfig.json
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\bin\Debug\net8.0\Actividad04.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\bin\Debug\net8.0\Actividad04.pdb
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\Actividad04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\Actividad04.AssemblyInfoInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\Actividad04.AssemblyInfo.cs
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\Actividad04.csproj.CoreCompileInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\Actividad04.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\refint\Actividad04.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\Actividad04.pdb
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\Actividad04.genruntimeconfig.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad04\Actividad04\obj\Debug\net8.0\ref\Actividad04.dll
